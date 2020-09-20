@@ -12,7 +12,7 @@ In this repo, I have implemented Fmix, Cutmix and Mixup on the Fashion MNIST dat
 
 # Cutmix
 
-![Screenshot](Cutmix/cutmix_fashion_mnist.png)
+![Screenshot](Cutmix/cutmix_fashionmnist.png)
 
 # Fmix
 
