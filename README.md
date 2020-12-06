@@ -3,6 +3,9 @@ In this repo, I have implemented Fmix, Cutmix and Mixup on the Fashion MNIST dat
 
 Link to my medium blog: https://medium.com/@virajbagal12/mixed-sample-data-augmentation-721e65093fcf
 
+```python
+python train.py --msda baseline --save_dir path_to_save
+```
 
 # Baseline
 
